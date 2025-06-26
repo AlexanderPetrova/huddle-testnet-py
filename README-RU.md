@@ -149,9 +149,7 @@ HUDDLE-TESTNET-BOT/
 │   │   └── websocket_client.py
 │   └── utils/
 │       ├── __init__.py
-│       ├── banner.py
-│       ├── utils.py
-│       └── logger.py
+│       └── utils.py
 │
 ├── main.py
 ├── .gitignore

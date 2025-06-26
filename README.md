@@ -146,9 +146,7 @@ HUDDLE-TESTNET-BOT/
 │   │
 │   └── utils/
 │       ├── __init__.py
-│       ├── banner.py
-│       ├── utils.py
-│       └── logger.py
+│       └── utils.py
 │
 ├── main.py
 ├── .gitignore
