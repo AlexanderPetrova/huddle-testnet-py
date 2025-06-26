@@ -25,8 +25,8 @@ A Python-based bot designed to automate participation in Huddle01 testnet rooms 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AlexanderPetrova/huddle-testnet.git
-    cd huddle-testnet
+    git clone https://github.com/AlexanderPetrova/huddle-testnet-py.git
+    cd huddle-testnet-py
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
